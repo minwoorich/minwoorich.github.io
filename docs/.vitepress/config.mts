@@ -2,7 +2,6 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/minwoorich.github.io/',
   title: "Timbel Tech Blog",
   description: "Think Smart, Build AI, Shape Tomorrow",
   themeConfig: {
