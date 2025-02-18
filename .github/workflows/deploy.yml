@@ -30,7 +30,7 @@ jobs:
           fetch-depth: 0 # lastUpdated가 활성화되지 않은 경우 필요하지 않음
       - uses: pnpm/action-setup@v3 # pnpm을 사용하는 경우 주석 해제
         with:
-        version: 9
+          version: 9
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
