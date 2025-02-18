@@ -1,1 +1,0 @@
-# minwoorich.github.io
